@@ -15,3 +15,4 @@ int main() {
  
     printf("\n%.2f",(float)a/b);
     return 0;
+}
