@@ -1,3 +1,5 @@
+//Write a C program to create a simple calculator, that takes in 2 inputs and displays the sum, the difference, the product and the quotient.
+
 #include<stdio.h>
 int main() {
     int a,b;
