@@ -1,7 +1,7 @@
-//Write a C program to read 3 inputs - l,b and h . Now find the volume of cube, cuboid respectively using the formulaes given below.
+/*Write a C program to read 3 inputs - l,b and h . Now find the volume of cube, cuboid respectively using the formulaes given below.
 
-//Cube - l*l*l
-//Cuboid - l*b*h
+Cube - l*l*l
+Cuboid - l*b*h */
 
 
 #include<stdio.h>
