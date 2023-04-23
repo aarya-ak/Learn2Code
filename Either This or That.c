@@ -1,4 +1,4 @@
-//Input an integer which is the limit, say n. Write a C program to print all the numbers till the limit n that are divisible by either 2 and 3 or divisible by all 2,3 and 5.//
+/*Input an integer which is the limit, say n. Write a C program to print all the numbers till the limit n that are divisible by either 2 and 3 or divisible by all 2,3 and 5.*/
 
 #include <stdio.h>
 #include <string.h>
