@@ -1,4 +1,4 @@
-//Write a program in C to sort an array in Bubble sort//
+/*Write a program in C to sort an array in Bubble sort*/
 
 #include <stdio.h>
 #include <string.h>
