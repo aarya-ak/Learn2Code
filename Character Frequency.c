@@ -1,4 +1,4 @@
-//Write a C program to receive a string as the first input and a character as the second input and find the frequency of the inputted character in the string.//
+/*Write a C program to receive a string as the first input and a character as the second input and find the frequency of the inputted character in the string.*/
 
 #include <stdio.h>
 #include <string.h>
